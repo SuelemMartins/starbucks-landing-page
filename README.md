@@ -14,7 +14,7 @@ A proposta é criar uma experiência moderna e agradável para apresentar os pro
 - Animações suaves nos elementos interativos
 - Design baseado nas cores e estilo da Starbucks
 
-☕ ![Imagem do Projeto](./imagem-projeto.PNG)
+![Imagem do Projeto](./imagem-projeto.JPG)
 
 ## 📂 Como Visualizar
 Clone o repositório e abra o arquivo `index.html` no seu navegador.
